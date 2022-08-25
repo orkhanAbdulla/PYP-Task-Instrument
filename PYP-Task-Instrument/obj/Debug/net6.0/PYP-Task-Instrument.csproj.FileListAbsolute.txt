@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\bin\Debug\net6.0\PYP-Task-Instrument.exe
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\bin\Debug\net6.0\PYP-Task-Instrument.deps.json
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\bin\Debug\net6.0\PYP-Task-Instrument.runtimeconfig.json
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\bin\Debug\net6.0\PYP-Task-Instrument.dll
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\bin\Debug\net6.0\PYP-Task-Instrument.pdb
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.AssemblyInfo.cs
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.dll
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\refint\PYP-Task-Instrument.dll
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.pdb
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\PYP-Task-Instrument.genruntimeconfig.cache
+C:\Users\hp\Desktop\PYP\PYP-Task-Instrument\PYP-Task-Instrument\obj\Debug\net6.0\ref\PYP-Task-Instrument.dll
